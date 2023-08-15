@@ -15,8 +15,9 @@ Welcome to QuantumVizSim! This project provides an interactive simulator for exp
 
 2. **Clone the repository**: Open your terminal/command prompt and enter the following:
 
-   ```sh
-   git clone https://github.com/akiraid-64/QuantumVizSim.git
+```sh
+ git clone https://github.com/akiraid64/QuantumVizSim
+```
    
 3. Navigate to the directory:
  ```sh
