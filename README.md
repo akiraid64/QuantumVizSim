@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Run the simulator: Start the simulator by running the gui.py script:
  ```sh
-python main.py
+python gui.py
 ```
 
 Experiment: Use the GUI to input superposition percentages and explore how quantum gates affect qubit states and measured probabilities.
