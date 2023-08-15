@@ -19,13 +19,19 @@ Welcome to QuantumVizSim! This project provides an interactive simulator for exp
    git clone https://github.com/akiraid-64/QuantumVizSim.git
    
 3. Navigate to the directory:
-   cd QuantumVizSim
-   
+ ```sh
+cd QuantumVizSim
+```
+
 4.Install dependencies: Install the required Python packages using pip:
+```sh
 pip install -r requirements.txt
+```
 
 Run the simulator: Start the simulator by running the gui.py script:
+ ```sh
 python gui.py
+```
 
 Experiment: Use the GUI to input superposition percentages and explore how quantum gates affect qubit states and measured probabilities.
 
@@ -35,5 +41,6 @@ Contributions are welcome! If you're interested in adding new features, fixing b
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+    
 
 
